@@ -1,0 +1,1 @@
+az vmss show --resource-group vmssagents --name vmssagentspool --output table
